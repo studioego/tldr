@@ -131,7 +131,9 @@ Alcuni comandi aggiuntivi, come `example command`, hanno la propria documentazio
 ---
 ### ko
 
-Not translated yet.
+```markdown
+`example command` 와 같은 일부 하위 명령어는 자체 사용하는 도큐먼테이션 (설명서) 이 있습니다.
+```
 
 ---
 ### ml
